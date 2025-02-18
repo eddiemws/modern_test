@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 
 const images = [
   "https://i.postimg.cc/NMJrLhyw/Kitchen-towels.jpg",
-  "https://i.postimg.cc/NMJrLhyw/Kitchen-towels.jpg",
+  "https://i.postimg.cc/SRmk0jQS/Rechargeable-LED-travel-tablet-vanity-mirror.jpg",
   "https://i.postimg.cc/4x67VHKP/Nunix-A2-C-hot-and-cold-bottom-load-water-dispenser.jpg",
 ];
 
