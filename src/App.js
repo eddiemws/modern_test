@@ -4,9 +4,10 @@ import { motion } from "framer-motion";
 const images = [
   "https://i.postimg.cc/NMJrLhyw/Kitchen-towels.jpg",
   "https://i.postimg.cc/NMJrLhyw/Kitchen-towels.jpg",
-  "https://i.postimg.cc/NMJrLhyw/Kitchen-towels.jpg",
+  "https://i.postimg.cc/4x67VHKP/Nunix-A2-C-hot-and-cold-bottom-load-water-dispenser.jpg",
 ];
 
+// change 
 const App = () => {
   return (
     <div className="min-h-screen bg-gray-100 flex flex-col items-center justify-center p-4">
